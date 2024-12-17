@@ -1,0 +1,5 @@
+uvicorn
+google-cloud-aiplatform
+websockets
+google-genai
+fastapi
